@@ -1,0 +1,10 @@
+E:\Documents\Visual Studio 2017\Projects\matomeTool\matomeTool\bin\Debug\matomeTool.exe.config
+E:\Documents\Visual Studio 2017\Projects\matomeTool\matomeTool\bin\Debug\matomeTool.exe
+E:\Documents\Visual Studio 2017\Projects\matomeTool\matomeTool\bin\Debug\matomeTool.pdb
+E:\Documents\Visual Studio 2017\Projects\matomeTool\matomeTool\obj\Debug\matomeTool.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2017\Projects\matomeTool\matomeTool\obj\Debug\matomeTool.Form1.resources
+E:\Documents\Visual Studio 2017\Projects\matomeTool\matomeTool\obj\Debug\matomeTool.Properties.Resources.resources
+E:\Documents\Visual Studio 2017\Projects\matomeTool\matomeTool\obj\Debug\matomeTool.csproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2017\Projects\matomeTool\matomeTool\obj\Debug\matomeTool.csproj.CoreCompileInputs.cache
+E:\Documents\Visual Studio 2017\Projects\matomeTool\matomeTool\obj\Debug\matomeTool.exe
+E:\Documents\Visual Studio 2017\Projects\matomeTool\matomeTool\obj\Debug\matomeTool.pdb
